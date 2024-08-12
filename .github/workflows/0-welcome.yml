@@ -1,3 +1,4 @@
+# Duplicate of #2
 name: Step 0, Welcome
 
 # This step listens for the learner pushing a commit to `main`.
